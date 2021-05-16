@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="671416fb-7107-4710-8586-504f7bedaa53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/imposto/ICMS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/imposto/ISS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TesteImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TesteImpostos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/imposto/CalculadoraDeImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/imposto/CalculadoraDeImpostos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/imposto/TipoImposto.java" beforeDir="false" />
-    </list>
+    <list default="true" id="671416fb-7107-4710-8586-504f7bedaa53" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,21 +99,25 @@
     </state>
     <state x="3300" y="534" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621137950613" />
     <state x="1380" y="534" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621137316824" />
-    <state width="1476" height="175" key="GridCell.Tab.0.bottom" timestamp="1621137773165">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1621138378020">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621138378020" />
     <state width="1476" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621137773165" />
-    <state width="1476" height="175" key="GridCell.Tab.0.center" timestamp="1621137773165">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1621138378020">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621138378020" />
     <state width="1476" height="175" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621137773165" />
-    <state width="1476" height="175" key="GridCell.Tab.0.left" timestamp="1621137773164">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1621138378020">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621138378020" />
     <state width="1476" height="175" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621137773164" />
-    <state width="1476" height="175" key="GridCell.Tab.0.right" timestamp="1621137773165">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1621138378020">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621138378020" />
     <state width="1476" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621137773165" />
   </component>
 </project>
