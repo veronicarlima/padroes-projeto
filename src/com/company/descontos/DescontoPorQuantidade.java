@@ -4,14 +4,18 @@ import com.company.orcamento.Orcamento;
 
 import java.math.BigDecimal;
 
-public class DescontoPorQuantidade {
+public class DescontoPorQuantidade extends Desconto {
 
-   public BigDecimal calcular(Orcamento orcamento) {
+    public DescontoPorQuantidade(Desconto proximo) {
+        super(proximo);
+    }
+
+    public BigDecimal calcular(Orcamento orcamento) {
 
        if (orcamento.getQuantidadedeItens() > 5) {
            return orcamento.getValor().multiply(new BigDecimal("0.1"));
        }
-       return BigDecimal.ZERO;
+       return proximo.calcular(orcamento);
    }
 
 }
