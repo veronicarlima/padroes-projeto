@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="671416fb-7107-4710-8586-504f7bedaa53" name="Default Changelist" comment="" />
+    <list default="true" id="671416fb-7107-4710-8586-504f7bedaa53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/TesteDescontos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/descontos/CalculadoraDeDescontos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/TesteImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TesteImpostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/orcamento/Orcamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/orcamento/Orcamento.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -28,19 +34,33 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
       <recent name="com.company.imposto" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.company.imposto" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteImpostos">
+  <component name="RunManager" selected="Application.TesteDescontos">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="loja" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteDescontos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TesteDescontos" />
+      <module name="loja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -61,9 +81,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.TesteImpostos" />
+      <item itemvalue="Application.TesteDescontos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteDescontos" />
         <item itemvalue="Application.TesteImpostos" />
       </list>
     </recent_temporary>
@@ -82,9 +104,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1515" y="408" key="#com.intellij.ide.util.MemberChooser" timestamp="1621137159638">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="3435" y="408" key="#com.intellij.ide.util.MemberChooser" timestamp="1621138996111">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="3435" y="408" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621138996111" />
     <state x="1515" y="408" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621137159638" />
     <state x="974" y="592" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1621137274343">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -99,25 +122,25 @@
     </state>
     <state x="3300" y="534" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621137950613" />
     <state x="1380" y="534" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621137316824" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1621138378020">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1621139560821">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621138378020" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621139560821" />
     <state width="1476" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621137773165" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1621138378020">
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1621139560820">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621138378020" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621139560820" />
     <state width="1476" height="175" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621137773165" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1621138378020">
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1621139560820">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621138378020" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621139560820" />
     <state width="1476" height="175" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621137773164" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1621138378020">
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1621139560821">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621138378020" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1621139560821" />
     <state width="1476" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621137773165" />
   </component>
 </project>
